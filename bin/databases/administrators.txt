@@ -1,0 +1,3 @@
+0001,John Doe,john_doe,password101
+0002,Samantha Smith,samantha,23jfajd3
+0003,Ali Haq,alihq,ffswr032

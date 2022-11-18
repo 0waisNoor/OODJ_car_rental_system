@@ -1,0 +1,7 @@
+MDA-8922,ford,ranger,9000,4,pickup
+RFT-3220,camri,toyota,12000,4,sedan
+MDS-3543,swift,suzuki,8000,4,hatchback
+SHC-6971,voxy,toyota,9500,8,minivan
+FKS-1324,ipsum,toyota,12350,6,minivan
+0001,corolla,toyota,8200,4,sedan
+FDR-003,xtrail,nissan,40000,6,SUV
